@@ -1,0 +1,27 @@
+header{
+  background-image: url(../images/water.jpg);
+  overflow: hidden;
+}
+.h:hover{
+  color: #157347;
+  background-color:#fff;
+  border-color:#fff;
+  transition: 1s;
+}
+section{
+  background-color: teal;
+  margin: 10px 0;
+}
+.box{
+  background-color: red;
+  height: 100px;
+  margin: 10px 0;
+}
+
+.map iframe{
+  width: 100%;
+  height: 500px;
+}
+.y_video iframe{
+  width: 100%;
+}

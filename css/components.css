@@ -1,0 +1,22 @@
+header{
+  background-image: url(../images/water.jpg);
+  overflow: hidden;
+  margin:20px 0;
+}
+.h:hover{
+  color: #157347;
+  background-color:#fff;
+  border-color:#fff;
+  transition: 1s;
+}
+section{
+  margin: 20px 0;
+}
+.background{
+  background-image: url(../images/snow.jpg);
+  background-position: bottom;
+}
+.back{
+  background-color: black;
+  padding: 20px 0;
+}
